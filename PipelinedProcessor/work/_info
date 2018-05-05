@@ -1,0 +1,2387 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_pro/17.0
+<<<<<<< HEAD
+Z1 w1524812828
+Z2 =======
+Z3 w1525189908
+R0
+<<<<<<< HEAD
+!s110 1525065269
+!i10b 1
+!s108 1525065269.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Univ\Documents\Architecture2\PipelinedProcessor\ALU.vhd|
+!s107 C:\Users\Univ\Documents\Architecture2\PipelinedProcessor\ALU.vhd|
+R2
+Z4 !s110 1525195031
+!i10b 1
+Z5 !s108 1525195031.000000
+Z6 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Architecture2/ALU.vhd|
+Z7 !s107 R:/Architecture2/ALU.vhd|
+R0
+<<<<<<< HEAD
+DEx4 work 3 alu 0 22 QZWg7E8X4:>lYfnaAFImO2
+R2
+Z8 DEx4 work 3 alu 0 22 `Rd53U4JHUbRn:EI@0bXD2
+R0
+<<<<<<< HEAD
+R3
+Z9 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z10 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z11 dC:/Users/Univ/Documents/Architecture2/PipelinedProcessor
+Z12 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/BranchUnit.vhd
+Z13 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/BranchUnit.vhd
+R2
+w1524321047
+R9
+R10
+R11
+8R:/Architecture2/BranchUnit.vhd
+FR:/Architecture2/BranchUnit.vhd
+<<<<<<< HEAD
+R4
+!i10b 1
+R5
+Z14 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/BranchUnit.vhd|
+Z15 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/BranchUnit.vhd|
+R2
+Z16 !s110 1524321063
+!i10b 1
+!s108 1524321063.000000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Architecture2/BranchUnit.vhd|
+Z18 !s107 R:/Architecture2/BranchUnit.vhd|
+R0
+<<<<<<< HEAD
+Z19 DEx4 work 10 branchunit 0 22 4aOJZEmQg9;@;YkMbHZmn1
+R2
+R19
+R0
+<<<<<<< HEAD
+R4
+!i10b 1
+R5
+R14
+R16
+R2
+R16
+!i10b 1
+R19
+R17
+R18
+R0
+<<<<<<< HEAD
+R3
+R9
+R10
+R11
+8C:\Users\Univ\Documents\Architecture2\PipelinedProcessor\ControlUnit.vhd
+FC:\Users\Univ\Documents\Architecture2\PipelinedProcessor\ControlUnit.vhd
+l0
+L4
+VOR9fUVZ3?YTLA1:Hjgm_31
+!s100 RYSSezDeKd<j3E7f=NK0i3
+Z20 OV;C;10.5c;63
+32
+Z21 !s110 1525065270
+!i10b 1
+!s108 1525065270.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Univ\Documents\Architecture2\PipelinedProcessor\ControlUnit.vhd|
+!s107 C:\Users\Univ\Documents\Architecture2\PipelinedProcessor\ControlUnit.vhd|
+R2
+Z22 w1525094405
+R9
+R10
+R11
+Z23 8R:/Architecture2/ControlUnit.vhd
+Z24 FR:/Architecture2/ControlUnit.vhd
+l0
+L4
+VnRdz;g4JbUb:D_ORBAHS43
+!s100 P5C`Dn<NOamT:hEiYKFo43
+R20
+32
+!s110 1525094455
+!i10b 1
+!s108 1525094454.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Architecture2/ControlUnit.vhd|
+!s107 R:/Architecture2/ControlUnit.vhd|
+<<<<<<< HEAD
+Z25 DEx4 work 11 controlunit 0 22 OR9fUVZ3?YTLA1:Hjgm_31
+l40
+L21
+VFZ4PB4Pf@1HiY3WbAmO;l2
+!s100 iZP]10H?N?LNzaRD8L8l<2
+R2
+DEx4 work 11 controlunit 0 22 nRdz;g4JbUb:D_ORBAHS43
+l40
+L21
+V^k936Mc14jkI]X]6PI[hm1
+!s100 QnncH<8WANl7n0ei[MDjN1
+R0
+<<<<<<< HEAD
+w1525065668
+R2
+w1525193984
+R0
+<<<<<<< HEAD
+V^DKjk1QVPj@Yk]h94@L8m3
+!s100 Ll41Xz^24<4Uc@h<fG5Qg2
+R20
+32
+Z26 !s110 1525065672
+!i10b 1
+Z27 !s108 1525065672.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Univ\Documents\Architecture2\PipelinedProcessor\DecodeStage.vhd|
+Z29 !s107 C:\Users\Univ\Documents\Architecture2\PipelinedProcessor\DecodeStage.vhd|
+R2
+V?I2c@]FRiQN]IjzebRB[F3
+!s100 >k_381<n8jCeBcz2mi<jf2
+R20
+32
+!s110 1525194086
+!i10b 1
+!s108 1525194085.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Architecture2/DecodeStage.vhd|
+!s107 R:/Architecture2/DecodeStage.vhd|
+R0
+<<<<<<< HEAD
+DEx4 work 11 decodestage 0 22 ^DKjk1QVPj@Yk]h94@L8m3
+l90
+L48
+V5KUcOc:7_:z]=LP[d=j0@2
+!s100 X^RgXgSInU;2i_[[7ReV@1
+R2
+DEx4 work 11 decodestage 0 22 ?I2c@]FRiQN]IjzebRB[F3
+l92
+L49
+VN9^Jnh=O=zSWf?f@3C0Od2
+!s100 Q4IzzM0Q_:7F[lg4K[Uf^2
+R0
+<<<<<<< HEAD
+R3
+R9
+R10
+R11
+Z30 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ExecutionStage.vhd
+Z31 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ExecutionStage.vhd
+R2
+w1525195070
+R9
+R10
+R11
+8R:/Architecture2/ExecutionStage.vhd
+FR:/Architecture2/ExecutionStage.vhd
+<<<<<<< HEAD
+R21
+!i10b 1
+R22
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ExecutionStage.vhd|
+Z33 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ExecutionStage.vhd|
+R2
+Z34 !s110 1525195073
+!i10b 1
+Z35 !s108 1525195071.000000
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Architecture2/ExecutionStage.vhd|
+Z37 !s107 R:/Architecture2/ExecutionStage.vhd|
+R0
+<<<<<<< HEAD
+R19
+Z38 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R8
+Z39 DEx4 work 13 nbitregisterf 0 22 ?dgMDKAeDe>cnmiJhH<6<0
+Z40 DEx4 work 17 outportcontroller 0 22 K<ki8]KY4kZfPIHOAD8_@3
+R2
+R21
+R33
+R38
+R8
+R39
+R40
+R0
+<<<<<<< HEAD
+R21
+!i10b 1
+R22
+R32
+R33
+R2
+R34
+!i10b 1
+R35
+R36
+R37
+R0
+<<<<<<< HEAD
+R3
+R9
+R10
+R11
+Z41 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/FetchStage.vhd
+Z42 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/FetchStage.vhd
+l0
+L4
+VkfX6hg>P4K_0ENU[E^ngR1
+!s100 a9ZCcie9oiZPjnWkEM]ZW2
+R20
+32
+Z43 !s110 1525065271
+!i10b 1
+Z44 !s108 1525065271.000000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/FetchStage.vhd|
+Z46 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/FetchStage.vhd|
+R2
+w1525192141
+R9
+R10
+R11
+8R:/Architecture2/FetchStage.vhd
+FR:/Architecture2/FetchStage.vhd
+l0
+L4
+V<;]^5cam?ggieK7EE9?i[2
+!s100 QOZ[K7lTR;B;C0=f?P_8e0
+R20
+32
+Z47 !s110 1525192143
+!i10b 1
+Z48 !s108 1525192143.000000
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Architecture2/FetchStage.vhd|
+Z50 !s107 R:/Architecture2/FetchStage.vhd|
+<<<<<<< HEAD
+Z51 DEx4 work 12 pccontroller 0 22 MeJ>@40:h>IP5oLQaB87H1
+Z52 DEx4 work 12 nbitregister 0 22 7ajjWMKL2IQJ;YgCCB2<Z2
+R9
+R10
+DEx4 work 10 fetchstage 0 22 kfX6hg>P4K_0ENU[E^ngR1
+l87
+L38
+V9SRjzSEf4T8?UV7de;O`Y0
+!s100 RS;?h9ON>HSh5ol9:]L[J0
+R20
+32
+R43
+!i10b 1
+R44
+R45
+R46
+R2
+R51
+R33
+R9
+R10
+DEx4 work 10 fetchstage 0 22 <;]^5cam?ggieK7EE9?i[2
+l98
+L49
+Vb`nUzWd3aOXF?^mIWdP:B2
+!s100 c1[b8VQLdO=H4ZLI`UAic3
+R20
+32
+R47
+!i10b 1
+R48
+R49
+R50
+R0
+<<<<<<< HEAD
+Z53 w1524813793
+R9
+R10
+R11
+Z54 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ForwardingUnit.vhd
+Z55 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ForwardingUnit.vhd
+R2
+w1524346872
+R9
+R10
+R11
+8R:/Architecture2/ForwardingUnit.vhd
+FR:/Architecture2/ForwardingUnit.vhd
+<<<<<<< HEAD
+R43
+!i10b 1
+R44
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ForwardingUnit.vhd|
+Z57 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ForwardingUnit.vhd|
+R2
+Z58 !s110 1525191344
+!i10b 1
+Z59 !s108 1525191344.000000
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Architecture2/ForwardingUnit.vhd|
+Z61 !s107 R:/Architecture2/ForwardingUnit.vhd|
+R0
+<<<<<<< HEAD
+Z62 DEx4 work 14 forwardingunit 0 22 :=8g5=b2Ko7Mka0hZT8h32
+R2
+R62
+R0
+<<<<<<< HEAD
+R43
+!i10b 1
+R44
+R56
+R57
+R2
+R58
+!i10b 1
+R59
+R60
+R61
+R0
+<<<<<<< HEAD
+R3
+R9
+R10
+R11
+Z63 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/MemoryStage.vhd
+Z64 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/MemoryStage.vhd
+R2
+w1525196064
+Z65 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z66 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R9
+R10
+R11
+8R:/Architecture2/MemoryStage.vhd
+FR:/Architecture2/MemoryStage.vhd
+<<<<<<< HEAD
+R43
+!i10b 1
+R44
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/MemoryStage.vhd|
+Z68 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/MemoryStage.vhd|
+R2
+!s110 1525196068
+!i10b 1
+!s108 1525196068.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Architecture2/MemoryStage.vhd|
+!s107 R:/Architecture2/MemoryStage.vhd|
+R0
+<<<<<<< HEAD
+R43
+!i10b 1
+R44
+R67
+R68
+R2
+!s110 1523917126
+!i10b 1
+!s108 1523917126.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/New folder/MemoryStage.vhd|
+!s107 C:/Users/Univ/Documents/Architecture2/New folder/MemoryStage.vhd|
+R0
+<<<<<<< HEAD
+Z69 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/mux2.vhd
+Z70 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/mux2.vhd
+R2
+8R:/Architecture2/mux2.vhd
+FR:/Architecture2/mux2.vhd
+R0
+<<<<<<< HEAD
+Z71 !s110 1525065272
+!i10b 1
+R44
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/mux2.vhd|
+Z73 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/mux2.vhd|
+R2
+Z74 !s110 1524393254
+!i10b 1
+Z75 !s108 1524393254.000000
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Architecture2/mux2.vhd|
+Z77 !s107 R:/Architecture2/mux2.vhd|
+R0
+<<<<<<< HEAD
+R71
+!i10b 1
+R44
+R72
+R73
+R2
+R74
+!i10b 1
+R75
+R76
+R77
+R0
+<<<<<<< HEAD
+8C:\Users\Univ\Documents\Architecture2\PipelinedProcessor\mux4.vhd
+FC:\Users\Univ\Documents\Architecture2\PipelinedProcessor\mux4.vhd
+R2
+8R:/Architecture2/mux4.vhd
+FR:/Architecture2/mux4.vhd
+R0
+<<<<<<< HEAD
+R71
+!i10b 1
+Z78 !s108 1525065272.000000
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Univ\Documents\Architecture2\PipelinedProcessor\mux4.vhd|
+Z80 !s107 C:\Users\Univ\Documents\Architecture2\PipelinedProcessor\mux4.vhd|
+R2
+Z81 !s110 1524393250
+!i10b 1
+Z82 !s108 1524393250.000000
+Z83 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Architecture2/mux4.vhd|
+Z84 !s107 R:/Architecture2/mux4.vhd|
+R0
+<<<<<<< HEAD
+R71
+!i10b 1
+R78
+R79
+R80
+R2
+R81
+!i10b 1
+R82
+R83
+R84
+R0
+<<<<<<< HEAD
+Z85 w1513386528
+R9
+R10
+R11
+Z86 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/register.vhd
+Z87 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/register.vhd
+R2
+Z88 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/decoder.vhd|
+R9
+R10
+R11
+8R:/Architecture2/register.vhd
+FR:/Architecture2/register.vhd
+<<<<<<< HEAD
+Z89 !s110 1525065273
+!i10b 1
+Z90 !s108 1525065273.000000
+Z91 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/register.vhd|
+Z92 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/register.vhd|
+R2
+Z93 !s110 1524393543
+!i10b 1
+Z94 !s108 1524393543.000000
+Z95 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Architecture2/register.vhd|
+Z96 !s107 R:/Architecture2/register.vhd|
+R0
+<<<<<<< HEAD
+R89
+!i10b 1
+R90
+R91
+R92
+R2
+R93
+!i10b 1
+R94
+R95
+R96
+R0
+<<<<<<< HEAD
+Z97 w1523856084
+R9
+R10
+R11
+Z98 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/FallingEdgeReg.vhd
+Z99 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/FallingEdgeReg.vhd
+R2
+w1523982436
+R9
+R10
+R11
+8R:/Architecture2/FallingEdgeReg.vhd
+FR:/Architecture2/FallingEdgeReg.vhd
+<<<<<<< HEAD
+R21
+!i10b 1
+R22
+Z100 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/FallingEdgeReg.vhd|
+Z101 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/FallingEdgeReg.vhd|
+R2
+Z102 !s110 1525102748
+!i10b 1
+Z103 !s108 1525102748.000000
+Z104 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Architecture2/FallingEdgeReg.vhd|
+Z105 !s107 R:/Architecture2/FallingEdgeReg.vhd|
+R0
+<<<<<<< HEAD
+R39
+R2
+R53
+R0
+<<<<<<< HEAD
+R21
+!i10b 1
+R22
+R100
+R101
+R2
+R102
+!i10b 1
+R103
+R104
+R105
+R0
+<<<<<<< HEAD
+Z106 w1523902907
+R9
+R10
+R11
+Z107 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/outPortController.vhd
+Z108 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/outPortController.vhd
+R2
+R106
+R9
+R10
+R91
+8C:/Users/Univ/Documents/Architecture2/New folder/outPortController.vhd
+FC:/Users/Univ/Documents/Architecture2/New folder/outPortController.vhd
+<<<<<<< HEAD
+R71
+!i10b 1
+R78
+Z109 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/outPortController.vhd|
+Z110 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/outPortController.vhd|
+R2
+Z111 !s110 1523917130
+!i10b 1
+Z112 !s108 1523917130.000000
+Z113 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/New folder/outPortController.vhd|
+Z114 !s107 C:/Users/Univ/Documents/Architecture2/New folder/outPortController.vhd|
+R0
+<<<<<<< HEAD
+R40
+R2
+R54
+R0
+<<<<<<< HEAD
+R71
+!i10b 1
+R78
+R109
+R110
+R2
+R111
+!i10b 1
+R112
+R113
+R114
+R0
+<<<<<<< HEAD
+Z115 w1523741204
+R38
+R9
+R10
+R11
+Z116 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/PCContoller.vhd
+Z117 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/PCContoller.vhd
+R2
+R115
+R38
+R9
+R10
+R91
+8C:/Users/Univ/Documents/Architecture2/New folder/PCContoller.vhd
+FC:/Users/Univ/Documents/Architecture2/New folder/PCContoller.vhd
+<<<<<<< HEAD
+R71
+!i10b 1
+R78
+Z118 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/PCContoller.vhd|
+Z119 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/PCContoller.vhd|
+R2
+Z120 !s110 1523917128
+!i10b 1
+Z121 !s108 1523917128.000000
+Z122 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/New folder/PCContoller.vhd|
+Z123 !s107 C:/Users/Univ/Documents/Architecture2/New folder/PCContoller.vhd|
+R0
+<<<<<<< HEAD
+R51
+R2
+R70
+R0
+<<<<<<< HEAD
+R71
+!i10b 1
+R78
+R118
+R119
+R2
+R120
+!i10b 1
+R121
+R122
+R123
+R0
+<<<<<<< HEAD
+w1523914037
+R9
+R10
+R11
+Z124 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/Processor.vhd
+Z125 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/Processor.vhd
+R2
+w1525196047
+R9
+R10
+R11
+8R:/Architecture2/Processor.vhd
+FR:/Architecture2/Processor.vhd
+<<<<<<< HEAD
+R71
+!i10b 1
+R78
+Z126 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/Processor.vhd|
+Z127 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/Processor.vhd|
+R2
+Z128 !s110 1525196072
+!i10b 1
+Z129 !s108 1525196071.000000
+Z130 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Architecture2/Processor.vhd|
+Z131 !s107 R:/Architecture2/Processor.vhd|
+R0
+<<<<<<< HEAD
+R71
+!i10b 1
+R78
+R126
+R127
+R2
+R128
+!i10b 1
+R129
+R130
+R131
+R0
+<<<<<<< HEAD
+R85
+R38
+R9
+R10
+R11
+Z132 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ram.vhd
+Z133 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ram.vhd
+R2
+R85
+R38
+R9
+R10
+R91
+8C:/Users/Univ/Documents/Architecture2/New folder/ram.vhd
+FC:/Users/Univ/Documents/Architecture2/New folder/ram.vhd
+<<<<<<< HEAD
+R89
+!i10b 1
+R78
+Z134 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ram.vhd|
+Z135 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ram.vhd|
+R2
+Z136 !s110 1523917129
+!i10b 1
+Z137 !s108 1523917129.000000
+Z138 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/New folder/ram.vhd|
+Z139 !s107 C:/Users/Univ/Documents/Architecture2/New folder/ram.vhd|
+R0
+<<<<<<< HEAD
+R89
+!i10b 1
+R78
+R134
+R135
+R2
+R136
+!i10b 1
+R137
+R138
+R139
+R0
+<<<<<<< HEAD
+Z140 w1523917116
+R38
+R9
+R10
+R11
+Z141 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/RegisterFile2.vhd
+Z142 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/RegisterFile2.vhd
+R2
+R140
+R38
+R9
+R10
+R91
+8C:/Users/Univ/Documents/Architecture2/New folder/RegisterFile2.vhd
+FC:/Users/Univ/Documents/Architecture2/New folder/RegisterFile2.vhd
+<<<<<<< HEAD
+R89
+!i10b 1
+R90
+Z143 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/RegisterFile2.vhd|
+Z144 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/RegisterFile2.vhd|
+R2
+R136
+!i10b 1
+R137
+Z145 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/New folder/RegisterFile2.vhd|
+Z146 !s107 C:/Users/Univ/Documents/Architecture2/New folder/RegisterFile2.vhd|
+R0
+<<<<<<< HEAD
+R89
+!i10b 1
+R90
+R143
+R144
+R2
+R136
+!i10b 1
+R137
+R145
+R146
+!i113 1
+Z147 o-work work -2002 -explicit
+Z148 tExplicit 1 CvgOpt 0
+R0
+<<<<<<< HEAD
+Z149 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/tristatebuffer.vhd
+Z150 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/tristatebuffer.vhd
+R2
+8R:/Architecture2/tristatebuffer.vhd
+FR:/Architecture2/tristatebuffer.vhd
+R0
+<<<<<<< HEAD
+R89
+!i10b 1
+R90
+Z151 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/tristatebuffer.vhd|
+Z152 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/tristatebuffer.vhd|
+R2
+Z153 !s110 1524393264
+!i10b 1
+Z154 !s108 1524393264.000000
+Z155 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Architecture2/tristatebuffer.vhd|
+Z156 !s107 R:/Architecture2/tristatebuffer.vhd|
+R0
+<<<<<<< HEAD
+R89
+!i10b 1
+R90
+R151
+R152
+R2
+R153
+!i10b 1
+R154
+R155
+R156
+R0
+<<<<<<< HEAD
+w1523908163
+R9
+R10
+R11
+8C:\Users\Univ\Documents\Architecture2\PipelinedProcessor\WriteBackStage.vhd
+FC:\Users\Univ\Documents\Architecture2\PipelinedProcessor\WriteBackStage.vhd
+R2
+w1525193825
+R9
+R10
+R11
+8R:/Architecture2/WriteBackStage.vhd
+FR:/Architecture2/WriteBackStage.vhd
+<<<<<<< HEAD
+R4
+!i10b 1
+R5
+Z157 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Univ\Documents\Architecture2\PipelinedProcessor\WriteBackStage.vhd|
+Z158 !s107 C:\Users\Univ\Documents\Architecture2\PipelinedProcessor\WriteBackStage.vhd|
+R2
+Z159 !s110 1525193987
+!i10b 1
+Z160 !s108 1525193986.000000
+Z161 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Architecture2/WriteBackStage.vhd|
+Z162 !s107 R:/Architecture2/WriteBackStage.vhd|
+R0
+<<<<<<< HEAD
+R4
+!i10b 1
+R5
+R157
+R158
+R2
+R159
+!i10b 1
+R160
+R161
+R162
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+R38
+R9
+R10
+R11
+8C:\Users\Univ\Documents\Architecture2\PipelinedProcessor\ALU.vhd
+FC:\Users\Univ\Documents\Architecture2\PipelinedProcessor\ALU.vhd
+l0
+L9
+Z163 V`Rd53U4JHUbRn:EI@0bXD2
+Z164 !s100 @[Hb^9blSMV3^DTPZ1@:<3
+R20
+32
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Aaluarch
+R38
+R9
+R10
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l72
+L30
+V_`GV1KYVaPgN7n_LVF:892
+!s100 9ZQJN4l6`ZRFokoQQ6nS01
+R20
+32
+R4
+!i10b 1
+R5
+R6
+R7
+!i113 1
+R147
+R148
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l0
+L4
+Z165 V4aOJZEmQg9;@;YkMbHZmn1
+Z166 !s100 o9PHz[m_3om^3V_^KU5B;0
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Abranchunitarch
+R9
+R10
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l29
+L25
+VCfGH89HCU=BMn1E6`A_el0
+!s100 LzZSJ8a`ZfFXUAFh4G1nE2
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Acontrolunitarch
+R9
+R10
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+R20
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R147
+R148
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+R9
+R10
+R11
+8C:\Users\Univ\Documents\Architecture2\PipelinedProcessor\DecodeStage.vhd
+FC:\Users\Univ\Documents\Architecture2\PipelinedProcessor\DecodeStage.vhd
+l0
+L4
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Adecodestagearch
+R52
+R25
+R38
+Z167 DEx4 work 12 registerfile 0 22 B?joaU8Nh1OT4T4MWGFQ;2
+R9
+R10
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+R20
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R147
+R148
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l0
+L4
+V5ESGZ_<F2za3cLK30J2A<1
+!s100 oj2U>H?l1kWSOVTEV<Z8c0
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Aexecutestagearch
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+R9
+R10
+DEx4 work 12 executestage 0 22 5ESGZ_<F2za3cLK30J2A<1
+l152
+L50
+VL7FUGD?lSVnNJ7=l^O0g01
+!s100 z[Q57@mmdPj0ig6Uz;ng@1
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Afetchstagearch
+R38
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l0
+L5
+V:=8g5=b2Ko7Mka0hZT8h32
+!s100 Yz:0R;IYch?nnhU1RmWdz1
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Aforwardingunitarch
+R9
+R10
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l53
+L44
+V1V_b5Ec0`L9GXKoC0>i?Z3
+!s100 g[QnN2YjnC_ZJ^Xe^RKPY1
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l0
+L6
+VEGzfH;lR6]?6U7J`VomDj3
+!s100 Na1TMJ>zPjF`ehdiE=ol50
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Amemorystagearch
+R9
+R10
+DEx4 work 11 memorystage 0 22 `eZg:XSKkEA8n:eT_YOGN2
+l43
+L33
+V7fCN61z:iT^`^1UgXaYb23
+!s100 B`MoHH5`B32c=K87eT3N12
+R20
+32
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+dC:/Users/Univ/Documents/Architecture2/New folder
+FC:/Users/Univ/Documents/Architecture2/New folder/MemoryStage.vhd
+8C:/Users/Univ/Documents/Architecture2/New folder/MemoryStage.vhd
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l0
+L4
+Z168 V[nVBCPAczd<@ffdllcCbl0
+Z169 !s100 QeZWE556O;>KzhAPMG31R1
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Amux2arch
+R9
+R10
+Z170 DEx4 work 4 mux2 0 22 [nVBCPAczd<@ffdllcCbl0
+l17
+L16
+Z171 V0a2^R;n_[L<8_5;nc0[381
+Z172 !s100 OGP^GCZF<H2z4fG?Xk_2R0
+R20
+32
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l0
+L5
+Z173 Vd__c?[VmkUjNfd?FMiIPm3
+Z174 !s100 jAMPln9JLn;2Qf1zUAaG:1
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Amux4arch
+R9
+R10
+Z175 DEx4 work 4 mux4 0 22 d__c?[VmkUjNfd?FMiIPm3
+l20
+L19
+Z176 VjOS?9[h24MS`jl4mXmXOi1
+Z177 !s100 1czliz7d3]Vd=^kh^IIP]1
+R20
+32
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l0
+L4
+Z178 V7ajjWMKL2IQJ;YgCCB2<Z2
+Z179 !s100 EEThZ6J92o=GZ@@<7[lj22
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Anbitregister_architecture
+R9
+R10
+R52
+l16
+L15
+Z180 V<W6=g1gzW>M@ZM;>1MmOh0
+Z181 !s100 TjCk_k?7SfF55I6b:KbCC3
+R20
+32
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l0
+L4
+Z182 V?dgMDKAeDe>cnmiJhH<6<0
+Z183 !s100 0][<9UWkFc^^gJERU[]fj2
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Anbitregister_architecture
+R9
+R10
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l16
+L15
+Z184 VAMjbJZInP>YKf]OazJY790
+Z185 !s100 5hWAX`iBFJ^HD;4>iABA?2
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l0
+L5
+Z186 VK<ki8]KY4kZfPIHOAD8_@3
+Z187 !s100 ;15P1Nm2:o6HaWRbM5G9B0
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Aoutportcontrollerarch
+R9
+R10
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l38
+L26
+Z188 VhQRTEMa72@3jGj5g4=YJT1
+Z189 !s100 K5n=C_G9lTC]zNd@X_2o?3
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l0
+L6
+Z190 VMeJ>@40:h>IP5oLQaB87H1
+Z191 !s100 SBj<;P_AkA?E5ST3_ICK52
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Apccontrollerarch
+R38
+R9
+R10
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l56
+L33
+Z192 VbcHz[]0[6>82TIMl2UGkX0
+Z193 !s100 Gn@4oDFa=e:0_2EU8WV:T3
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l0
+L4
+Z194 V`nj3ED_^?Z5UflP?Pmbll0
+Z195 !s100 cP0FjhO9l9MEPI76[L0Y@1
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Aprocessorarch
+R33
+Z196 DEx4 work 7 wbstage 0 22 J<g3mI7HGIVI=9EKF4f623
+R89
+R90
+DEx4 work 11 memorystage 0 22 EGzfH;lR6]?6U7J`VomDj3
+R55
+R40
+R71
+R86
+R9
+R10
+Z197 DEx4 work 9 processor 0 22 `nj3ED_^?Z5UflP?Pmbll0
+l112
+L30
+VJ2beL@kH5:T<jjNifHllc0
+!s100 GGz3XjzzY7gU3d]kLmF]L3
+R20
+32
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l0
+L5
+VJ4eW0Pz@5^TI>9YI:E=<;2
+!s100 PXEbdbP5LRQT2M:e::_@_3
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Asyncrama
+R38
+R9
+R10
+DEx4 work 3 ram 0 22 J4eW0Pz@5^TI>9YI:E=<;2
+l19
+L14
+VG_1<RFkRfi=>P3UKjOLIQ3
+!s100 mg]hmW8]>2N=KT;HMCVd[2
+R20
+32
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l0
+L5
+VB?joaU8Nh1OT4T4MWGFQ;2
+!s100 lAKPn^mPH<4ao<ld0FFZI3
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Aregisterfilearch
+R38
+R9
+R10
+R167
+l42
+L30
+VEAAkB<_A<>`@09BXkMHh90
+!s100 3YJNO_L^nHW?^BVLEcgE[2
+R20
+32
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l0
+L4
+Z198 V6>oL3n6R0>[MR2]f0FgB40
+Z199 !s100 SBZ[Q2jfz7>F4jkF6c]UJ1
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Aarctristate
+R9
+R10
+Z200 DEx4 work 14 tristatebuffer 0 22 6>oL3n6R0>[MR2]f0FgB40
+l17
+L15
+Z201 VZNL?U7iLCdg868;njjmBP1
+Z202 !s100 FDH1RC0;97QinJ4;1bA4L2
+R20
+32
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+l0
+L4
+Z203 VJ<g3mI7HGIVI=9EKF4f623
+Z204 !s100 >:X=]b[=CS4I1Abhe<FZZ2
+R20
+32
+R0
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Awbstagearch
+R33
+R9
+R10
+R196
+l51
+L46
+Z205 Vd?9;`TV^[a>DAl^LeTPV;3
+Z206 !s100 ndIGCz`5;aX<Q1nGSK2MJ3
+R20
+32
+>>>>>>> 2889d7eba3260513cd2fe3ba5aeb04e99ed7a840
+!i113 1
+R147
+R148
+R0
+Ealu
+Z207 w1525359965
+R38
+R9
+R10
+R11
+Z208 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ALU.vhd
+Z209 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ALU.vhd
+l0
+L9
+R163
+R164
+R20
+32
+Z210 !s110 1525512532
+!i10b 1
+Z211 !s108 1525512532.000000
+Z212 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ALU.vhd|
+Z213 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ALU.vhd|
+!i113 1
+R147
+R148
+Aaluarch
+R38
+R9
+R10
+R8
+l72
+L30
+V1>=6^VdQcRG=ah@^o5_FY1
+!s100 nJ5o5;zd<6]W@4PooGaBT1
+R20
+32
+!s110 1525344656
+!i10b 1
+!s108 1525344656.000000
+R212
+R213
+!i113 1
+R147
+R148
+Ebranchunit
+Z214 w1525204989
+R9
+R10
+R11
+R12
+R13
+l0
+L4
+R165
+R166
+R20
+32
+R210
+!i10b 1
+R211
+R14
+R15
+!i113 1
+R147
+R148
+Abranchunitarch
+R9
+R10
+R19
+l29
+L25
+V9nW6QfWQeAlLBZXfN@RnH1
+!s100 =K0Gz_OinLSV7OBAYY23?2
+R20
+32
+R210
+!i10b 1
+R211
+R14
+R15
+!i113 1
+R147
+R148
+Econtrolunit
+Z215 w1525212120
+R9
+R10
+R11
+Z216 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ControlUnit.vhd
+Z217 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ControlUnit.vhd
+l0
+L4
+Vf9ma_61OUoZY];YK`MTm<0
+!s100 jGd^oWI3ZJB@ITBa^?[m11
+R20
+32
+Z218 !s110 1525512533
+!i10b 1
+Z219 !s108 1525512533.000000
+Z220 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ControlUnit.vhd|
+Z221 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ControlUnit.vhd|
+!i113 1
+R147
+R148
+Acontrolunitarch
+R9
+R10
+Z222 DEx4 work 11 controlunit 0 22 f9ma_61OUoZY];YK`MTm<0
+l40
+L21
+VTUK4YU[zLQm[E?E5mQ>Y`3
+!s100 [n>l]oVXXcZEW4[FLO_em0
+R20
+32
+R218
+!i10b 1
+R219
+R220
+R221
+!i113 1
+R147
+R148
+Ecounter
+R1
+R66
+R65
+R9
+R10
+R11
+Z223 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/counter.vhd
+Z224 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/counter.vhd
+l0
+L5
+V6GF;d]cAGD3c<^VfU2Y[]0
+!s100 [cD=U:K5en=4Xg24fVA=O1
+R20
+32
+Z225 !s110 1525512537
+!i10b 1
+Z226 !s108 1525512537.000000
+Z227 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/counter.vhd|
+Z228 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/counter.vhd|
+!i113 1
+R147
+R148
+Amy_counter
+R66
+R65
+R9
+R10
+DEx4 work 7 counter 0 22 6GF;d]cAGD3c<^VfU2Y[]0
+l23
+L21
+V2:=^a];022C[X>`NJ=0CZ3
+!s100 PoW04C_FBR]HHj@4PY;4P0
+R20
+32
+R225
+!i10b 1
+R226
+R227
+R228
+!i113 1
+R147
+R148
+Edecoder
+R85
+R38
+R9
+R10
+R11
+Z229 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/decoder.vhd
+Z230 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/decoder.vhd
+l0
+L8
+V:Y?RJ2eGEci52MIVbdZbj0
+!s100 V]7XWDRDJ3JDo`51PGEY12
+R20
+32
+R218
+!i10b 1
+R219
+Z231 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/decoder.vhd|
+R88
+!i113 1
+R147
+R148
+Adecoderarchitecture
+R38
+R9
+R10
+DEx4 work 7 decoder 0 22 :Y?RJ2eGEci52MIVbdZbj0
+l20
+L19
+VW?Gn`P1WP6oMN]KD?knL40
+!s100 kT0>M5fHUmN<MMRQLQ^2;1
+R20
+32
+R218
+!i10b 1
+R219
+R231
+R88
+!i113 1
+R147
+R148
+Edecodestage
+Z232 w1525474043
+R9
+R10
+R11
+Z233 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/DecodeStage.vhd
+Z234 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/DecodeStage.vhd
+l0
+L4
+VfXkg5>BT>lE76]4jm7a3F0
+!s100 nkQPL46:bjzLdE<h5anES3
+R20
+32
+R218
+!i10b 1
+R219
+Z235 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/DecodeStage.vhd|
+Z236 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/DecodeStage.vhd|
+!i113 1
+R147
+R148
+Adecodestagearch
+R52
+R222
+R38
+Z237 DEx4 work 12 registerfile 0 22 XHOe_OcdQ]kB1WoH1?NW80
+R9
+R10
+Z238 DEx4 work 11 decodestage 0 22 fXkg5>BT>lE76]4jm7a3F0
+l103
+L54
+V1i@55@ZWEQRl?0f89[IO90
+!s100 b@2Bk50FYB][>:RF6P^Gh1
+R20
+32
+R218
+!i10b 1
+R219
+R235
+R236
+!i113 1
+R147
+R148
+Eexecutestage
+Z239 w1525510544
+R9
+R10
+R11
+R30
+R31
+l0
+L4
+VaEMKeh6;:K7NSVk]L0fOF0
+!s100 J`;VMFEF?UA?jGHHZCb5C1
+R20
+32
+R218
+!i10b 1
+R219
+R32
+R33
+!i113 1
+R147
+R148
+Aexecutestagearch
+R19
+R52
+R38
+R8
+R39
+R40
+R9
+R10
+Z240 DEx4 work 12 executestage 0 22 aEMKeh6;:K7NSVk]L0fOF0
+l155
+L50
+V<U`4<H8hKo[ZmnemFdnbD3
+!s100 b7MSD9VJDJ>^CTjK?;jF71
+R20
+32
+R218
+!i10b 1
+R219
+R32
+R33
+!i113 1
+R147
+R148
+Efetchstage
+Z241 w1525495698
+R9
+R10
+R11
+R41
+R42
+l0
+L4
+V?GMj3C?TFNTNM<idLGTbS2
+!s100 QCKll?V1CjUoFmlfUPV8`2
+R20
+32
+Z242 !s110 1525512534
+!i10b 1
+Z243 !s108 1525512534.000000
+R45
+R46
+!i113 1
+R147
+R148
+Afetchstagearch
+R38
+R51
+R52
+R9
+R10
+Z244 DEx4 work 10 fetchstage 0 22 ?GMj3C?TFNTNM<idLGTbS2
+l108
+L51
+V7O=5Uh98^Z1Fz>GKR`d103
+!s100 DAjYiE=EK?Tl37LVES6;>3
+R20
+32
+R242
+!i10b 1
+R243
+R45
+R46
+!i113 1
+R147
+R148
+Eforwardingunit
+Z245 w1525512355
+R9
+R10
+R11
+R54
+R55
+l0
+L5
+V4ORGRmOjkiKMDj?LQ;g@i3
+!s100 Si8>L:bEG5YHTXH2DGfDl2
+R20
+32
+R242
+!i10b 1
+R243
+R56
+R57
+!i113 1
+R147
+R148
+Aforwardingunitarch
+R9
+R10
+Z246 DEx4 work 14 forwardingunit 0 22 4ORGRmOjkiKMDj?LQ;g@i3
+l55
+L46
+VD`3?ERc:>>feZ9X[hfjce3
+!s100 DoBaUP>MVc^ZRTN7oVcS;0
+R20
+32
+R242
+!i10b 1
+R243
+R56
+R57
+!i113 1
+R147
+R148
+Einstrmemory
+Z247 w1525291702
+R38
+R9
+R10
+R11
+Z248 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/instrMemory.vhd
+Z249 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/instrMemory.vhd
+l0
+L4
+VlW_az^bWI=la1:o<WZ5N42
+!s100 iXRMLQ8aEeS8deC@VkC=n2
+R20
+32
+R225
+!i10b 1
+R226
+Z250 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/instrMemory.vhd|
+Z251 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/instrMemory.vhd|
+!i113 1
+R147
+R148
+Aim
+R38
+R9
+R10
+DEx4 work 11 instrmemory 0 22 lW_az^bWI=la1:o<WZ5N42
+l18
+L15
+VS<@7`]kf`Gi74D47z^1J>2
+!s100 djV@WjiW>gE9QgVBiVY1m1
+R20
+32
+R225
+!i10b 1
+R226
+R250
+R251
+!i113 1
+R147
+R148
+Ememorystage
+Z252 w1525509378
+R65
+R66
+R9
+R10
+R11
+R63
+R64
+l0
+L6
+V6JF_2G_cR5WFi84cLO4EJ3
+!s100 8TK<UM><D676P?ibLK4`@0
+R20
+32
+R242
+!i10b 1
+R243
+R67
+R68
+!i113 1
+R147
+R148
+Amemorystagearch
+R65
+R66
+R9
+R10
+Z253 DEx4 work 11 memorystage 0 22 6JF_2G_cR5WFi84cLO4EJ3
+l103
+L42
+VFEHfJEz8a6DPV:?^fnb^S2
+!s100 78j`?ARF60m]0_;25VeUV0
+R20
+32
+R242
+!i10b 1
+R243
+R67
+R68
+!i113 1
+R147
+R148
+Emux2
+R85
+R9
+R10
+R11
+R69
+R70
+l0
+L4
+R168
+R169
+R20
+32
+Z254 !s110 1525512535
+!i10b 1
+Z255 !s108 1525512535.000000
+R72
+R73
+!i113 1
+R147
+R148
+Amux2arch
+R9
+R10
+R170
+l17
+L16
+R171
+R172
+R20
+32
+R254
+!i10b 1
+R255
+R72
+R73
+!i113 1
+R147
+R148
+Emux4
+R85
+R9
+R10
+R11
+Z256 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/mux4.vhd
+Z257 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/mux4.vhd
+l0
+L5
+R173
+R174
+R20
+32
+R254
+!i10b 1
+R255
+Z258 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/mux4.vhd|
+Z259 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/mux4.vhd|
+!i113 1
+R147
+R148
+Amux4arch
+R9
+R10
+R175
+l20
+L19
+R176
+R177
+R20
+32
+R254
+!i10b 1
+R255
+R258
+R259
+!i113 1
+R147
+R148
+Emy_ndff
+R1
+R9
+R10
+R11
+Z260 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/dff.vhd
+Z261 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/dff.vhd
+l0
+L5
+VDdVl2e?KROPTVF>4IMEZ40
+!s100 AoNS2FYdO2cOdm?44C67z0
+R20
+32
+R225
+!i10b 1
+R226
+Z262 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/dff.vhd|
+Z263 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/dff.vhd|
+!i113 1
+R147
+R148
+Aa_my_ndff
+R9
+R10
+DEx4 work 7 my_ndff 0 22 DdVl2e?KROPTVF>4IMEZ40
+l14
+L13
+VKQ]1K==@CiV^5om_]7Ue>0
+!s100 iX7oZOJ24H5;3Bi<3PKE33
+R20
+32
+R225
+!i10b 1
+R226
+R262
+R263
+!i113 1
+R147
+R148
+Enbitregister
+R85
+R9
+R10
+R11
+R86
+R87
+l0
+L4
+R178
+R179
+R20
+32
+Z264 !s110 1525512536
+!i10b 1
+Z265 !s108 1525512536.000000
+R91
+R92
+!i113 1
+R147
+R148
+Anbitregister_architecture
+R9
+R10
+R52
+l16
+L15
+R180
+R181
+R20
+32
+R264
+!i10b 1
+R265
+R91
+R92
+!i113 1
+R147
+R148
+Enbitregisterf
+R97
+R9
+R10
+R11
+R98
+R99
+l0
+L4
+R182
+R183
+R20
+32
+R218
+!i10b 1
+R219
+R100
+R101
+!i113 1
+R147
+R148
+Anbitregister_architecture
+R9
+R10
+R39
+l16
+L15
+R184
+R185
+R20
+32
+R218
+!i10b 1
+R219
+R100
+R101
+!i113 1
+R147
+R148
+Eoutportcontroller
+R106
+R9
+R10
+R11
+R107
+R108
+l0
+L5
+R186
+R187
+R20
+32
+R254
+!i10b 1
+R255
+R109
+R110
+!i113 1
+R147
+R148
+Aoutportcontrollerarch
+R9
+R10
+R40
+l38
+L26
+R188
+R189
+R20
+32
+R254
+!i10b 1
+R255
+R109
+R110
+!i113 1
+R147
+R148
+Epccontroller
+R115
+R38
+R9
+R10
+R11
+R116
+R117
+l0
+L6
+R190
+R191
+R20
+32
+R254
+!i10b 1
+R255
+R118
+R119
+!i113 1
+R147
+R148
+Apccontrollerarch
+R38
+R9
+R10
+R51
+l56
+L33
+R192
+R193
+R20
+32
+R254
+!i10b 1
+R255
+R118
+R119
+!i113 1
+R147
+R148
+Eprocessor
+Z266 w1525510408
+R9
+R10
+R11
+R124
+R125
+l0
+L4
+R194
+R195
+R20
+32
+R254
+!i10b 1
+R255
+R126
+R127
+!i113 1
+R147
+R148
+Aprocessorarch
+R52
+R196
+R65
+R66
+R253
+R240
+R238
+R244
+R246
+R9
+R10
+R197
+l113
+L30
+V?G0aTj_X5l?Q<zH?<m[1k0
+!s100 GT4C]6hM9BCzYUY6UiFBQ0
+R20
+32
+R264
+!i10b 1
+R255
+R126
+R127
+!i113 1
+R147
+R148
+Eprocessorfd
+Z267 w1525425838
+R9
+R10
+R11
+Z268 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/fetchDecode.vhd
+Z269 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/fetchDecode.vhd
+l0
+L5
+V;FB;cLYO@OV_a4HGP[0MO2
+!s100 Km8LQbMNT34_>J^K2o9FL0
+R20
+32
+R225
+!i10b 1
+R226
+Z270 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/fetchDecode.vhd|
+Z271 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/fetchDecode.vhd|
+!i113 1
+R147
+R148
+Aprocessorarch
+R238
+R244
+R9
+R10
+Z272 DEx4 work 11 processorfd 0 22 ;FB;cLYO@OV_a4HGP[0MO2
+l111
+L29
+Z273 Vk3D10Zm7WOe_IM[mhNDE03
+Z274 !s100 ?Bb@0JPmOV1@>63Njc14e2
+R20
+32
+R225
+!i10b 1
+R226
+R270
+R271
+!i113 1
+R147
+R148
+Eram
+Z275 w1525289517
+R38
+R9
+R10
+R11
+R132
+R133
+l0
+L5
+V7UC2HW4o2QL^N_FIUAaQZ0
+!s100 l;VcT64m=;MBE>@>IP7ZA2
+R20
+32
+R264
+!i10b 1
+R265
+R134
+R135
+!i113 1
+R147
+R148
+Asyncrama
+R38
+R9
+R10
+DEx4 work 3 ram 0 22 7UC2HW4o2QL^N_FIUAaQZ0
+l19
+L14
+VaO_7ZNmGGeLb^X]lTYNn40
+!s100 d`gjCdnP12BDl@h<7GHR;1
+R20
+32
+R264
+!i10b 1
+R265
+R134
+R135
+!i113 1
+R147
+R148
+Eregisterfile
+Z276 w1525306375
+R38
+R9
+R10
+R11
+R141
+R142
+l0
+L5
+VXHOe_OcdQ]kB1WoH1?NW80
+!s100 027d<TY]oVAWIkLN99=EJ2
+R20
+32
+R264
+!i10b 1
+R265
+R143
+R144
+!i113 1
+R147
+R148
+Aregisterfilearch
+R38
+R9
+R10
+R237
+l43
+L31
+V7:=[jknP5e`eo2ozfHb4E2
+!s100 amMaI=E6kL@PoR7k>`Zc12
+R20
+32
+R264
+!i10b 1
+R265
+R143
+R144
+!i113 1
+R147
+R148
+Erom
+Z277 w1525470957
+R38
+R9
+R10
+R11
+Z278 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ROM.vhd
+Z279 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ROM.vhd
+l0
+L4
+VZYknUVD]39GllY8TCXK:=2
+!s100 4H;RN@mWBS8GQcIVO266A0
+R20
+32
+R225
+!i10b 1
+R265
+Z280 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ROM.vhd|
+Z281 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/ROM.vhd|
+!i113 1
+R147
+R148
+Amy_rom
+R38
+R9
+R10
+DEx4 work 3 rom 0 22 ZYknUVD]39GllY8TCXK:=2
+l19
+L16
+VkC3E_a77>BnZb1WcoL<CZ1
+!s100 HMQNdl?eP:bkYaSJ^Yi^:1
+R20
+32
+R225
+!i10b 1
+R265
+R280
+R281
+!i113 1
+R147
+R148
+Etristatebuffer
+Z282 w1513630478
+R9
+R10
+R11
+R149
+R150
+l0
+L4
+R198
+R199
+R20
+32
+R264
+!i10b 1
+R265
+R151
+R152
+!i113 1
+R147
+R148
+Aarctristate
+R9
+R10
+R200
+l17
+L15
+R201
+R202
+R20
+32
+R264
+!i10b 1
+R265
+R151
+R152
+!i113 1
+R147
+R148
+Ewbstage
+Z283 w1525202143
+R9
+R10
+R11
+Z284 8C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/WriteBackStage.vhd
+Z285 FC:/Users/Univ/Documents/Architecture2/PipelinedProcessor/WriteBackStage.vhd
+l0
+L4
+R203
+R204
+R20
+32
+R210
+!i10b 1
+R211
+Z286 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/WriteBackStage.vhd|
+Z287 !s107 C:/Users/Univ/Documents/Architecture2/PipelinedProcessor/WriteBackStage.vhd|
+!i113 1
+R147
+R148
+Awbstagearch
+R52
+R9
+R10
+R196
+l51
+L46
+R205
+R206
+R20
+32
+R210
+!i10b 1
+R211
+R286
+R287
+!i113 1
+R147
+R148

@@ -1,0 +1,8 @@
+vsim -gui work.processor
+
+
+add wave -r /*
+
+mem load -i C:/Users/Univ/Downloads/TestCase1.mem /processor/FetchStage/IM/mem
+
+mem load -i C:/Users/Univ/Documents/Architecture2/ctrlsigs.mem /processor/DecodeStage/ControlUnit/r/mem
